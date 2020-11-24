@@ -9,7 +9,7 @@ author:
   url: http://theupshift.github.io/milox
 permalink: pretty
 
-baseurl: ""
+baseurl: "http://theupshift.github.io/milox"
 
 highlighter: rouge
 
